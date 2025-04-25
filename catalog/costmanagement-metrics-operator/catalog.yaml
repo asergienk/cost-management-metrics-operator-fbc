@@ -6825,7 +6825,6 @@ properties:
         $ oc delete -f volume-shell.yaml
         ```
 
-      ## Create an Integration
       In a restricted network, the `costmanagement-metrics-operator` cannot automatically create an integration. This process must be done manually. In the console.redhat.com platform, open the [Integrations menu](https://console.redhat.com/settings/integrations/) to begin adding an OpenShift integration to Cost Management:
 
       Prerequisites:
